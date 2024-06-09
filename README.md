@@ -1,3 +1,4 @@
+![logo](https://github.com/izazahmed0177/izazahmed0177/blob/main/bannerGitHub.png)
 <h1 align="center">Hi 👋, I'm Izaz Ahmed Emon</h1>
 <h3 align="center">Full-stack Developer from Bangladesh</h3>
 
